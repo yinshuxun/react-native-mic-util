@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_default.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/color/abc_tint_edittext.xml"
+    }
+]

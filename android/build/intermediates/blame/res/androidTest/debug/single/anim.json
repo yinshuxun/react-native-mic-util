@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shuxun/.android/build-cache/2ca87e36dd773324ef579079c001b54178ce3ae0/output/res/anim/abc_fade_out.xml"
+    }
+]

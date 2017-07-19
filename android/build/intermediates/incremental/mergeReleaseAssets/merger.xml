@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/src/main/assets"/><source path="/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/shuxun/IdeaProject/Mine/rn/TestProject/android/nativemoduleexample/src/release/assets"/></dataSet></merger>
