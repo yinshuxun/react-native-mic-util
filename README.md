@@ -1,5 +1,7 @@
 # react-native-mic-util
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yinshuxun/react-native-mic-util.svg)](https://greenkeeper.io/)
+
 useage
 ``` 
 import {
